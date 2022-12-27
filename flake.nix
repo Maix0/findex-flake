@@ -1,7 +1,7 @@
 {
   description = "A very basic flake";
   inputs.findex-git = {
-    url = "github:mdgaziur/findex/release";
+    url = "github:Maix0/findex/development";
     flake = false;
   };
   inputs.nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";

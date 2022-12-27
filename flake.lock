@@ -3,16 +3,16 @@
     "findex-git": {
       "flake": false,
       "locked": {
-        "lastModified": 1671984606,
-        "narHash": "sha256-XowZCz3liE8xdUgMg4S5uKHC/+L78Rzxt+OjmgpCfJM=",
-        "owner": "mdgaziur",
+        "lastModified": 1672149942,
+        "narHash": "sha256-8UTBhak4i1Eum8/2aIKVxgYPhJIg5yDuej3zxlrsp5c=",
+        "owner": "Maix0",
         "repo": "findex",
-        "rev": "4efcf0dc4744c5c0dbbcd6100c462452b8445f30",
+        "rev": "5b69843b7246a59f4d075f1b43a6ad4044b698fd",
         "type": "github"
       },
       "original": {
-        "owner": "mdgaziur",
-        "ref": "release",
+        "owner": "Maix0",
+        "ref": "development",
         "repo": "findex",
         "type": "github"
       }
