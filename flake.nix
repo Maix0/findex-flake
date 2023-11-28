@@ -5,9 +5,10 @@
     flake = false;
   };
   inputs.nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
-  inputs.flake-utils.url = "github:numtide/flake-utils";
 
+  inputs.flake-utils.url = "github:numtide/flake-utils";
   inputs.naersk.url = "github:nix-community/naersk";
+  inputs.naersk.inputs.nixpkgs.follows = "nixpkgs";
   outputs = {
     self,
     nixpkgs,
