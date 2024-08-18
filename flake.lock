@@ -3,11 +3,11 @@
     "findex-git": {
       "flake": false,
       "locked": {
-        "lastModified": 1701852160,
-        "narHash": "sha256-AplM+Gbn1mKMi8G9izrKRotGlpQafjAlFKi4Lr8WGvk=",
+        "lastModified": 1723925221,
+        "narHash": "sha256-9E1ORQj2yf7PXZ32WEVIiVrxPmrZOQt9NDxeloIoDgs=",
         "owner": "Maix0",
         "repo": "findex",
-        "rev": "6d793c419ef534779f09145629adea1822fb0c73",
+        "rev": "995a385c0a2997faeb57cff54b2be16f3a75b8dc",
         "type": "github"
       },
       "original": {
@@ -57,11 +57,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1723703277,
-        "narHash": "sha256-nk0RaUB5f68BwtXAYy3WAjqFhVKqIl9Z89RGycTa2vk=",
+        "lastModified": 1723891200,
+        "narHash": "sha256-uljX21+D/DZgb9uEFFG2dkkQbPZN+ig4Z6+UCLWFVAk=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "8b908192e64224420e2d59dfd9b2e4309e154c5d",
+        "rev": "a0d6390cb3e82062a35d0288979c45756e481f60",
         "type": "github"
       },
       "original": {
